@@ -1,5 +1,6 @@
 class Cal{
 <<<<<<< HEAD
+<<<<<<< HEAD
 	public int add(int a,int b){
 return a+b;
   }
@@ -8,6 +9,11 @@ return a+b;
  	return a-b;
 }
 >>>>>>> feature_sub
+
+	public int mul (int a,int b){
+return a*b;
+}
+>>>>>>> feature_mul
 	public static void main(String [] args){
 
   }
